@@ -10,7 +10,7 @@ Welcome to my Power BI learning journey! Here, I document my experiences as I ta
 
 ## Introduction
 
-In this repository, I share my progress and learning experiences in the realm of Power BI. From HR Analytics to insightful business reports, join me as I explore different projects and gain hands-on experience in data visualization and analysis using Power BI.
+In this repository, I share my progress and learning experiences in the realm of Power BI. I explore different projects and gain hands-on experience in data visualization and analysis using Power BI.
 
 ## Projects
 
