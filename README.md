@@ -27,7 +27,7 @@ I encounter various challenges related to Power BI and data visualization. Each 
 
 1. **Codebasics Resume Project Challenge**: [AltiQo Telecom Business Insights](https://www.linkedin.com/posts/karthiga-lakshmanan_codebasicsresumeprojectchallenge-codebasics-activity-7011582159345913856-6x3p?utm_source=share&utm_medium=member_desktop)
 2. **FP20 Analytics Data Challenge**:[Worldwide Mortality Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7112886582172426240?utm_source=share&utm_medium=member_desktop)
-3. **Codebasics Resume Project Challenge _8** : [Mitron Bank Credit Card Analysis] (https://github.com/Karthigalakshmanan/Mitron-Bank-Credit-Card-Analysis)
+3. **Codebasics Resume Project Challenge _8** : [Mitron Bank Credit Card Analysis](https://github.com/Karthigalakshmanan/Mitron-Bank-Credit-Card-Analysis)
 
 Happy visualizing!
 
