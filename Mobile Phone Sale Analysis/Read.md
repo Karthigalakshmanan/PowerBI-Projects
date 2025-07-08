@@ -89,6 +89,11 @@ This Power BI project analyzes one year of mobile phone sales data as part of th
 
 ---
 
+## 📷 Data Modelling: Star schema
+
+![image](https://github.com/user-attachments/assets/55a268ed-4ae4-4d55-9210-2cbffb11f286)
+
+
 ## 📷 Dashboard Preview
 
 ![image](https://github.com/user-attachments/assets/8dc97eeb-fe11-4e91-a073-7b555a302df5)
@@ -96,4 +101,4 @@ This Power BI project analyzes one year of mobile phone sales data as part of th
 
  
 ```md
-![Dashboard Preview](images/dashboard-preview.png)
+
